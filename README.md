@@ -29,3 +29,11 @@ I am studying at psyongin high school(용인고등학교)
 | 부산과학고등학교영재교육원장상 | 2017
 | 부산광역시교육감상 | 2016
 | 부산광역시교육감상 | 2015
+
+## Online Projects
+| Organization & Team | Position | Year
+|:--------------------- |:------ |
+| SeoaV2 | Member | 2020
+| Teaddy Studio | CTO | 2019~2020
+| SeoaV1 | Member | 2019
+| 부산내성중학교 생명정보학 소논문 팀 | Member | 2019
