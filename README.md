@@ -32,7 +32,7 @@ I am studying at psyongin high school(용인고등학교)
 
 ## Online Projects
 | Organization & Team | Position | Year
-|:--------------------- |:------ |
+|:--------------------- |:------: |:------
 | SeoaV2 | Member | 2020
 | Teaddy Studio | CTO | 2019~2020
 | SeoaV1 | Member | 2019
