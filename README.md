@@ -1,4 +1,4 @@
-### From Here To World 👋
+# From Here To World 👋
 
 ## I'm...
 My Name is Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
