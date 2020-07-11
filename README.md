@@ -20,4 +20,13 @@ I am studying at psyongin high school(용인고등학교)\
 | Busan Elementary Gifted Class Team Dr. Flower | Member | 2016
 | Busan Elementary Gifted Class Team I.G.S | Representative | 2015
 
-## I got
+## Competition
+| Competition | Year
+|:-------------------- |:------ |
+| 전국학생과학발명경진대회 특상(해양수산부장관상) | 2019
+| 부산학생과학발명경진대회 금상(부산광역시교육감상) | 2019
+| 전국중학생화학대회 수상 | 2019
+| 부산과학발명대회 4위 | 2018
+| 부산과학고등학교영재교육원장상 | 2017
+| 부산광역시교육감상 | 2016
+| 부산광역시교육감상 | 2015
