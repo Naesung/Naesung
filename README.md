@@ -10,7 +10,7 @@ I am studying at psyongin high school(용인고등학교)\
 |:-------------------- |:--------:|:------ |
 | Psyongin High School(용인고등학교)     | Student | 2020~2022
 | Psyongin High School Gifted Class | Student | 2020
-| Psyongin Y-BIO Club | Student, 1st grader representative | 2020~2022
+| Psyongin Biology Club | Member, 1st grader representative | 2020~2022
 | Psyongin YCoding Club | Leader | 2020
 | Busan Naesung Middle School | Student | 2017~2019
 | Busan Naesung Middle School Science Math Club | Representative | 2018~2019
