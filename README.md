@@ -15,7 +15,7 @@ I am studying at psyongin high school(용인고등학교)
 | Busan Naesung Middle School Science Math Club(과학수학원리부) | Representative | 2018~2019
 | Busan Science High School Gifted Class(부산과학고등학교 영재교육원) | Student | 2017
 | Busan Science High School Gifted Class Biology Team B.Subtilis | Representative | 2017
-| Busan Elementary Gifted Class | Student | 2015~2016
+| Busan Elementary Gifted Class(부산광역시 초등영재교육원) | Student | 2015~2016
 | Busan Elementary Gifted Class Team Dr. Flower | Member | 2016
 | Busan Elementary Gifted Class Team I.G.S | Representative | 2015
 
