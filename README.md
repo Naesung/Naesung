@@ -2,8 +2,7 @@
 
 ## I'm...
 My Name is Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
-I am studying at psyongin high school(용인고등학교)\
-
+I am studying at psyongin high school(용인고등학교)
 
 ## I'm working for...
 | Organization & Team  | Position | Year                                                                                 |
