@@ -4,6 +4,13 @@
 My Name is Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
 I am studying at psyongin high school(용인고등학교)
 
+## My Repositories
+| Name | Year
+|:-------------------- |:------ |
+| Naesungmath | [Repo](https://github.com/Naesung/Naesungmath) [npm](https://npmjs.com/package/Naesungmath)
+| Naesungbot | [v1](https://github.com/Naesung/Naesungbot-v1) [v2](https://github.com/Naesung/Naesungbot-v2) [v3](https://github.com/Naesung/Naesungbot-v3) [page](https://github.com/Naesung/NaesungbotPage)
+| MyNSLibrary | [Repo](https://github.com/Naesung/MyNSLibrary)
+
 ## I'm working for...
 | Organization & Team  | Position | Year                                                                                 |
 |:-------------------- |:--------:|:------ |
@@ -19,6 +26,15 @@ I am studying at psyongin high school(용인고등학교)
 | Busan Elementary Gifted Class Team Dr. Flower | Member | 2016
 | Busan Elementary Gifted Class Team I.G.S | Representative | 2015
 
+## Online Projects
+| Organization & Team | Position | Year
+|:-------------------- |:--------:|:------ |
+| Naesung | Representative | 2017~2020
+| SeoaV2 | Member | 2020
+| Teaddy Studio | Administrator | 2019~2020
+| SeoaV1 | Member | 2019
+| 부산내성중학교 생명정보학 소논문 팀 | Member | 2019
+
 ## Competition
 | Competition | Year
 |:-------------------- |:------ |
@@ -30,18 +46,3 @@ I am studying at psyongin high school(용인고등학교)
 | 부산광역시교육감상 | 2016
 | 부산광역시교육감상 | 2015
 
-## Online Projects
-| Organization & Team | Position | Year
-|:-------------------- |:--------:|:------ |
-| Naesung | Representative | 2017~2020
-| SeoaV2 | Member | 2020
-| Teaddy Studio | Administrator | 2019~2020
-| SeoaV1 | Member | 2019
-| 부산내성중학교 생명정보학 소논문 팀 | Member | 2019
-
-## My Repositories
-| Name | Year
-|:-------------------- |:------ |
-| Naesungmath | [Repo](https://github.com/Naesung/Naesungmath) [npm](https://npmjs.com/package/Naesungmath)
-| Naesungbot | [v1](https://github.com/Naesung/Naesungbot-v1) [v2](https://github.com/Naesung/Naesungbot-v2) [v3](https://github.com/Naesung/Naesungbot-v3) [page](https://github.com/Naesung/NaesungbotPage)
-| MyNSLibrary | [Repo](https://github.com/Naesung/MyNSLibrary)
