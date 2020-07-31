@@ -1,7 +1,7 @@
 # From Here To World 👋
 
 ## I'm...
-My Name is Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
+I'm Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
 I am studying at psyongin high school(용인고등학교)
 
 ## My Repositories
