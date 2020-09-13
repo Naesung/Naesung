@@ -9,7 +9,7 @@ I am studying at psyongin high school(용인고등학교)
 |:-------------------- |:------ |
 | Naesungmath | [Repo](https://github.com/Naesung/Naesungmath) [npm](https://npmjs.com/package/Naesungmath)
 | Naesungbot | [v1](https://github.com/Naesung/Naesungbot-v1) [v2](https://github.com/Naesung/Naesungbot-v2) [v3](https://github.com/Naesung/Naesungbot-v3) [page](https://github.com/Naesung/NaesungbotPage)
-| MyNSLibrary | [Repo](https://github.com/Naesung/MyNSLibrary)
+| MyNSLibrary | [Repo](https://github.com/Naesung/naesunglibrary)
 
 ## I'm working for...
 | Organization & Team  | Position | Year                                                                                 |
