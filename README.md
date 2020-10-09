@@ -37,6 +37,6 @@ I am studying at psyongin high school(용인고등학교)
 | SeoaV2 | Member | 2020
 | Teaddy Studio | Administrator | 2020.1.22~2020.10.08
 | SeoaV1 | Member | 2019
-| 부산내성중학교 생명정보학 소논문 팀(쓰지 않음) | Member | 2019
+| 부산내성중학교 생명정보학 소논문 팀 | Member | 2019
 
 [![Naesung's Profile](https://github-readme-stats.vercel.app/api?username=Naesung&show_icons=true&hide_border=true)](https://github.com/Naesung)
