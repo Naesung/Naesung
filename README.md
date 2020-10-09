@@ -5,11 +5,14 @@ I'm Choi Minseo, a high school student living in South Korea who wants to be an 
 I am studying at psyongin high school(용인고등학교)
 
 ## My Repositories
-| Name | Year
-|:-------------------- |:------ |
-| Naesungmath | [Repo](https://github.com/Naesung/Naesungmath) [npm](https://npmjs.com/package/Naesungmath)
-| Naesungbot | [v1](https://github.com/Naesung/Naesungbot-v1) [v2](https://github.com/Naesung/Naesungbot-v2) [v3](https://github.com/Naesung/Naesungbot-v3) [page](https://github.com/Naesung/NaesungbotPage)
-| MyNSLibrary | [Repo](https://github.com/Naesung/naesunglibrary)
+| Name | Year | Supported Term |
+|:-------------------- |:------ |:------- |
+| Naesungmath | [Repo](https://github.com/Naesung/Naesungmath) [npm](https://npmjs.com/package/Naesungmath) | None
+| Naesungbot rev.1 | [v1](https://github.com/Naesung/Naesungbot-v1) | ~2019.12.31
+| Naesungbot rev.2 | [v2](https://github.com/Naesung/Naesungbot-v2) | 2019.01.30 ~ 2019.12.31
+| Naesungbot rev.3 | [v3](https://github.com/Naesung/Naesungbot-v3) | ~2024.01.30
+| Naesungbot Page | [page](https://github.com/Naesung/NaesungbotPage) | None
+| MyNSLibrary | [Repo](https://github.com/Naesung/naesunglibrary) | ~2024.01.30
 
 ## I'm working for...
 | Organization & Team  | Position | Year                                                                                 |
