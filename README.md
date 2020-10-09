@@ -7,7 +7,7 @@ I am studying at psyongin high school(용인고등학교)
 ## My Repositories
 | Name | Year | Supported Term |
 |:-------------------- |:-------- |:-------- |
-| seoapainter | [origin](https://github.com/Naesung/seoapainter) [team](https://github.com/seoav2/seoapainter) | ~2024.01.30
+| seoapainter | [origin](https://github.com/Naesung/seoapainter) [team](https://github.com/seoaapp/seoapainter) | ~2024.01.30
 | Naesungmath | [Repo](https://github.com/Naesung/Naesungmath) [npm](https://npmjs.com/package/Naesungmath) | None
 | Naesungbot rev.1 | [v1](https://github.com/Naesung/Naesungbot-v1) | ~2019.12.31
 | Naesungbot rev.2 | [v2](https://github.com/Naesung/Naesungbot-v2) | 2019.01.30 ~ 2019.12.31
