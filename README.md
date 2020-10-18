@@ -35,5 +35,5 @@ I am studying at psyongin high school(용인고등학교)
 | Teaddy Studio | Administrator | 2020.1.22~2020.10.08
 | SeoaV1 | Member | 2019
 | 부산내성중학교 생명정보학 소논문 팀 | Member | 2019
-[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naesung&layout=compact&hide_border=true)](https://github.com/Naesung)
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&layout=compact&hide_border=true)](https://github.com/Naesung)
 [![Naesung's Profile](https://github-readme-stats.vercel.app/api?username=Naesung&show_icons=true&hide_border=true)](https://github.com/Naesung)
