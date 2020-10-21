@@ -29,11 +29,9 @@ I am studying at psyongin high school(용인고등학교)
 ## Online Projects
 | Organization & Team | Position | Year
 |:-------------------- |:--------:|:------ |
-| Naesung | Representative | 2017~2020
-| SeoaV2 | Member | 2020
 | SeoaV2 | Member | ~2020.10.09
 | Teaddy Studio | Administrator | 2020.1.22~2020.10.08
-| SeoaV1 | Member | 2019
+| SeoaV1 | Member | 
 | 부산내성중학교 생명정보학 소논문 팀 | Member | 2019
 
 [![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&layout=compact&hide_border=true)](https://github.com/minseo0388)
