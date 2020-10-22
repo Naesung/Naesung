@@ -2,6 +2,7 @@
 ## I'm...
 I'm Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
 I am studying at psyongin high school(용인고등학교)
+내년에는 이수단위가 65단위라서 활동 잘 
 ## My Repositories
 | Name | Year | Supported Term |
 |:-------------------- |:-------- |:-------- |
