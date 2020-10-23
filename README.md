@@ -5,9 +5,13 @@ I am studying at psyongin high school(용인고등학교)\
 손가락 열상(반정도 절단)되어 활동이 줄어들거나 개발 속도가 느려질 것 같습니다.(2020.10.4)\
 그래놓고 30분동안 discord.deno 300LOC 하루에 900LOC한거 보면
 
-<a href="https://sourcerer.io/minseo0388"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
 <a href="https://sourcerer.io/minseo0388"><img src="https://avatars2.githubusercontent.com/u/42634731?v=4" height="50px" width="50px" alt=""/></a>
 <a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/JavaScript-480%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/HTML-156%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/DOS Batch-37%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/C#-28%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/TypeScript-12%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/C++-7%20commits-orange.svg" alt=""></a>
 
 ## My Repositories
 | Name | Year | Site |
