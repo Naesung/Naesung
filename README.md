@@ -1,18 +1,16 @@
 # From Here To World 👋
 ## I'm...
 I'm Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
-I am studying at psyongin high school(용인고등학교)
-내년에는 이수단위가 65단위라서 활동 잘 
+I am studying at psyongin high school(용인고등학교)\
+손가락 열상(반정도 절단)되어 활동이 줄어들거나 개발 속도가 느려질 것 같습니다.\
+그래놓고 30분동안 discord.deno 300LOC 하루에 900LOC한거 보면
 ## My Repositories
-| Name | Year | Supported Term |
+| Name | Year | Site |
 |:-------------------- |:-------- |:-------- |
-| seoapainter | [origin](https://github.com/Naesung/seoapainter) [team](https://github.com/seoaapp/seoapainter) | ~2024.01.30
-| Naesungmath | [Repo](https://github.com/Naesung/Naesungmath) [npm](https://npmjs.com/package/Naesungmath) | None
-| Naesungbot rev.1 | [v1](https://github.com/Naesung/Naesungbot-v1) | ~2019.12.31
-| Naesungbot rev.2 | [v2](https://github.com/Naesung/Naesungbot-v2) | 2019.01.30 ~ 2019.12.31
-| Naesungbot rev.3 | [v3](https://github.com/Naesung/Naesungbot-v3) | ~2024.01.30
-| Naesungbot Page | [page](https://github.com/Naesung/NaesungbotPage) | None
-| MyNSLibrary | [Repo](https://github.com/Naesung/naesunglibrary) | ~2024.01.30
+| seoapainter | [origin](https://github.com/minseo0388/seoapainter) [team](https://github.com/seoaapp/seoapainter) | [site](https://seoa.ga)
+| Naesungmath | [Javascript Repo](https://github.com/minseo0388/Naesungmath) [C# Repository](https://github.com/minseo0388/naesungmath-cs) [npm](https://npmjs.com/package/Naesungmath) | [site](https://mynslab.net/naesungmath/js)
+| Naesungbot | [v1](https://github.com/minseo0388/Naesungbot-v1) [v2](https://github.com/minseo0388/Naesungbot-v2) [v3](https://github.com/minseo0388/Naesungbot-v3)| [site](https://github.com/minseo0388/NaesungbotPage)
+| MyNSLibrary | [Repo](https://github.com/minseo0388/naesunglibrary) | [site](https://mynslab.net/library)
 ## I'm working for...
 | Organization & Team  | Position | Year                                                                                 |
 |:-------------------- |:--------:|:------ |
