@@ -16,7 +16,7 @@ I am studying at psyongin high school(용인고등학교)\
 | Name | Year | Site |
 |:-------------------- |:-------- |:-------- |
 | seoapainter | [origin](https://github.com/minseo0388/seoapainter) [team](https://github.com/seoaapp/seoapainter) | [site](https://seoa.ga)
-| Naesungmath | [Javascript](https://github.com/minseo0388/Naesungmath) [C#](https://github.com/minseo0388/naesungmath-cs) [npm](https://npmjs.com/package/Naesungmath) | [site](https://mynslab.net/naesungmath)
+| Naesungmath | [Javascript](https://github.com/minseo0388/Naesungmath) [C#](https://github.com/minseo0388/naesungmath-cs) | [npm](https://npmjs.com/package/Naesungmath) [site](https://mynslab.net/naesungmath)
 | Naesungbot | [v1](https://github.com/minseo0388/Naesungbot-v1) [v2](https://github.com/minseo0388/Naesungbot-v2) [v3](https://github.com/minseo0388/Naesungbot-v3)| [site](https://github.com/minseo0388/NaesungbotPage)
 | MyNSLibrary | [Repo](https://github.com/minseo0388/naesunglibrary) | [site](https://mynslab.net/library)
 ## I'm working for...
