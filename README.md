@@ -9,7 +9,7 @@ I am studying at psyongin high school(용인고등학교)\
 <a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/JavaScript-480%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/HTML-156%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/DOS Batch-37%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/C#-28%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/C-28%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/TypeScript-12%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/C++-7%20commits-orange.svg" alt=""></a>
 
