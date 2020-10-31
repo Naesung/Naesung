@@ -2,7 +2,8 @@
 ## I'm...
 I'm Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
 I am studying at psyongin high school(용인고등학교)\
-손가락 열상(반정도 절단)되어 활동이 줄어들거나 개발 속도가 느려질 것 같습니다.(2020.10.4)\
+손가락 열상(반정도 절단)되어 활동이 줄어들거나 개발 속도가 느려질 것 같습니다.(2020.10.4~2020.10.31)\
+Finger lacerations (half amputation) seem to reduce activity or slow development (2020.10.4~2020.10.31).\
 그래놓고 30분동안 discord.deno 300LOC 하루에 900LOC한거 보면
 
 <a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/JavaScript-480%20commits-orange.svg" alt=""></a>
