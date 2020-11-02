@@ -23,8 +23,8 @@ Finger lacerations (half amputation) seem to reduce activity or slow development
 ## I'm working for...
 | Organization & Team  | Position | Year                                                                                 |
 |:-------------------- |:--------:|:------ |
-| Psyongin High School(용인고등학교)     | Student | 2020~2022
-| Psyongin High School Gifted Class(용인고등학교 영재학급) | Student | 2020
+| Psyongin High School(용인고등학교)     | Student | 2020.03.02~2020.11
+| Psyongin High School Gifted Class(용인고등학교 영재학급) | Student | 2020.03.02~2020.11
 | Psyongin Biology Club | Member, 1st grader representative | 2020~2022
 | Psyongin YCoding Club | Leader | 2020
 | Busan Naesung Middle School(부산내성중학교) | Student | 2017~2019
