@@ -1,7 +1,7 @@
 # From Here To World 👋
 ## I'm...
 I'm Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
-I am studying at psyongin high school(용인고등학교)\
+I am studying at jeonggwan high school(정관고등학교) (psyongin high school(용인고등학교))\
 손가락 열상(반정도 절단)되어 활동이 줄어들거나 개발 속도가 느려질 것 같습니다.(2020.10.4-2020.10.31)\
 Finger lacerations (half amputation) seem to reduce activity or slow development (2020.10.4-2020.10.31).\
 그래놓고 30분동안 discord.deno 300LOC 하루에 900LOC한거 보면
@@ -23,8 +23,9 @@ Finger lacerations (half amputation) seem to reduce activity or slow development
 ## I'm working for...
 | Organization & Team  | Position | Year                                                                                 |
 |:-------------------- |:--------:|:------ |
-| Psyongin High School(용인고등학교)     | Student | 2020.03.02~2020.11
-| Psyongin High School Gifted Class(용인고등학교 영재학급) | Student | 2020.03.02~2020.11
+| Jeonggwan High School(정관고등학교) | Student | 2020.11.06~
+| Psyongin High School(용인고등학교)     | Student | 2020.03.02~2020.11.05
+| Psyongin High School Gifted Class(용인고등학교 영재학급) | Student | 2020.03.02~2020.11.05
 | Psyongin Biology Club | Member, 1st grader representative | 2020~2022
 | Psyongin YCoding Club | Leader | 2020
 | Busan Naesung Middle School(부산내성중학교) | Student | 2017~2019
