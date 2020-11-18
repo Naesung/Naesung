@@ -1,17 +1,7 @@
 # From Here To World 👋
 ## I'm...
 I'm Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
-I am studying at jeonggwan high school(정관고등학교) (psyongin high school(용인고등학교))\
-손가락 열상(반정도 절단)되어 활동이 줄어들거나 개발 속도가 느려질 것 같습니다.(2020.10.4-2020.10.31)\
-Finger lacerations (half amputation) seem to reduce activity or slow development (2020.10.4-2020.10.31).\
-그래놓고 30분동안 discord.deno 300LOC 하루에 900LOC한거 보면
-
-<a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/JavaScript-480%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/HTML-156%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/DOS Batch-37%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/C++++-28%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/TypeScript-12%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/minseo0388"><img src="https://img.shields.io/badge/C++-7%20commits-orange.svg" alt=""></a>
+I am studying at jeonggwan high school(정관고등학교) (moved from psyongin high school(용인고등학교에서 전학))\
 
 ## My Repositories
 | Name | Year | Site |
@@ -38,9 +28,9 @@ Finger lacerations (half amputation) seem to reduce activity or slow development
 ## Online Projects
 | Organization & Team | Position | Year
 |:-------------------- |:--------:|:------ |
-| SeoaV2 | Member | ~2020.10.09
+| SeoaV2 | Member | 2020~
 | Teaddy Studio | Administrator | 2020.1.22~2020.10.08
-| SeoaV1 | Member | 
+| SeoaV1 | Member | 2019~
 | 부산내성중학교 생명정보학 소논문 팀 | Member | 2019
 
 [![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&hide_border=true)](https://github.com/minseo0388)
