@@ -29,8 +29,8 @@ Stopped coding/programming for my own life.
 ## Online Projects
 | Organization & Team | Position | Year
 |:-------------------- |:--------:|:------ |
-| [harmony-org](https://github.com/harmony-org) | Developer | 2020.10~
-| [SeoaV2](https://github.com/seoav2) | Member | 2020~
+| [harmony-org](https://github.com/harmony-org) | Developer | 2020.10.09~
+| [SeoaV2](https://github.com/seoav2) | Member | 2020.01.01~2020.10.08
 | Teaddy Studio | Administrator | 2020.1.22~2020.10.08
 | [SeoaV1](https://github.com/seoaapp) | Member | 2019~
 | 부산내성중학교 생명정보학 소논문 팀 | Member | 2019
