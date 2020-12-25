@@ -2,6 +2,7 @@
 ## I'm...
 I'm Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
 I am studying at jeonggwan high school(정관고등학교) (moved from psyongin high school(용인고등학교에서 전학))\
+Stopped coding/programming for my own life.
 
 ## My Repositories
 | Name | Year | Site |
