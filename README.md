@@ -16,15 +16,11 @@ Stopped coding/programming for my own life.
 |:-------------------- |:--------:|:------ |
 | 정관고등학교\Jeonggwan High School | Student | 2020.11.06~
 | 용인고등학교\Psyongin High School | Student | 2020.03.02~2020.11.05
-| 용인고등학교 영재학급 17기\Psyongin High School Gifted Class | Student | 2020.03.02~2020.11.05
-| 용인고등학교 생명과학동아리 Y-BIO\Psyongin Biology Club | Member, 1st grader representative | 2020.03.02~2020.11.05
-| 용인고등학교 자율동아리 YCoding\Psyongin YCoding Club | Leader | 2020
 | 부산내성중학교 70회\Busan Naesung Middle School | Student | 2017~2019
 | 부산내성중학교 자율동아리 과학수학원리부\Busan Naesung Middle School Science Math Club | Representative | 2018~2019
 | 부산과학고등학교 영재교육원 과학 2017년\Busan Science High School Gifted Class | Student | 2017
 | 부산과학고등학교 영재교육원 생명과학동아리 B.subtilis\Busan Science High School Gifted Class Biology Team B.Subtilis | Representative | 2017
 | 부산광역시 초등영재교육원 과학 5-6학년\Busan Elementary Gifted Class | Student | 2015~2016
-| 부산광역시 초등영재교육원 2016년 프로젝트 Dr.Flower\Busan Elementary Gifted Class Team Dr. Flower | Member | 2016
 | 부산광역시 초등영재교육원 2015년 프로젝트 I.G.S(구. S.G.I)\Busan Elementary Gifted Class Team I.G.S | Representative | 2015
 ## Online Projects
 | Organization & Team | Position | Year
