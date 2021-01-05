@@ -11,6 +11,13 @@ Stopped coding/programming for my own life.
 | Naesungmath | [Javascript](https://github.com/minseo0388/Naesungmath) [C#](https://github.com/minseo0388/naesungmath-cs) | [npm](https://npmjs.com/package/Naesungmath) [site](https://mynslab.net/naesungmath)
 | Naesungbot | [v1](https://github.com/minseo0388/Naesungbot-v1) [v2](https://github.com/minseo0388/Naesungbot-v2) [v3](https://github.com/minseo0388/Naesungbot-v3)| [site](https://github.com/minseo0388/NaesungbotPage)
 | MyNSLibrary | [Repo](https://github.com/minseo0388/naesunglibrary) | [site](https://mynslab.net/library)
+
+## Individual Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath&theme=white)](https://github.com/minseo0388/naesungmath) 
+
+## Team Projects
+
 ## I'm working for...
 | Organization & Team  | Position | Year                                                                                 |
 |:-------------------- |:--------:|:------ |
