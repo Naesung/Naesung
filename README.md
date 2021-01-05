@@ -25,6 +25,8 @@ Stopped coding/programming for my own life.
 
 ## Team Projects
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harmony-org&repo=harmony&theme=white)](https://github.com/harmony-org/harmony) 
+
 ## I'm working for...
 | Organization & Team  | Position | Year                                                                                 |
 |:-------------------- |:--------:|:------ |
