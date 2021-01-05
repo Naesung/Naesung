@@ -17,6 +17,7 @@ Stopped coding/programming for my own life.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=ahcs&theme=white)](https://github.com/minseo0388/ahcs) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath&theme=white)](https://github.com/minseo0388/naesungmath)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath-cs&theme=white)](https://github.com/minseo0388/naesungmath-cs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesunglibrary&theme=white)](https://github.com/minseo0388/naesunglibrary)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=Naesungbot-v3&theme=white)](https://github.com/minseo0388/Naesungbot-v3)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=Naesungbot-v2&theme=white)](https://github.com/minseo0388/Naesungbot-v2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=Naesungbot-v1&theme=white)](https://github.com/minseo0388/Naesungbot-v1)
