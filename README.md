@@ -1,9 +1,8 @@
 # From Here To World 👋
 ## I'm...
 I'm Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
-I am studying at jeonggwan high school(정관고등학교) (moved from psyongin high school(용인고등학교에서 전학))\
-Stopped coding/programming for my own life.
 
+I am studied for 2700 hours (science, 2017~2019), 1800 hours(math, 2017~2019)
 ## Individual Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=ahcs&theme=white)](https://github.com/minseo0388/ahcs) 
