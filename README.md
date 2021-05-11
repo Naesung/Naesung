@@ -2,7 +2,8 @@
 ## I'm...
 I'm Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
 
-I am studied for 2700 hours (science, 2017~2019), 1800 hours(math, 2017~2019)
+I am studied for 2700 hours (science, 2017~2019)
+1800 hours(math, 2017~2019)
 ## Individual Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=ahcs&theme=white)](https://github.com/minseo0388/ahcs) 
