@@ -6,7 +6,7 @@ I'm Choi Minseo, a high school student living in South Korea who wants to be an 
 
 [![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minseo0388&hide_border=true&layout=compact)](https://github.com/minseo0388)
 [![minseo0388's Profile](https://github-readme-stats.vercel.app/api?username=minseo0388&show_icons=true&hide_border=true)](https://github.com/minseo0388)
-[![minseo0388's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minseo0388)](https://github.com/minseo0388)
+[![minseo0388's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=129dot03)](https://github.com/minseo0388)
 
 ## Individual Projects
 
