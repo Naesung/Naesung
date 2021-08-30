@@ -1,13 +1,20 @@
 # My stories
 ## I'm...
-I'm Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.\
+I'm Choi Minseo, a high school student living in South Korea who wants to be an epidemiologist.
 
 ## Individual Projects
+
+### Naesungmath
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath&theme=white)](https://github.com/minseo0388/naesungmath)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath-deno&theme=white)](https://github.com/minseo0388/naesungmath-deno)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=naesungmath-cs&theme=white)](https://github.com/minseo0388/naesungmath-cs)
+
+### Naesungbot
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=Naesungbot-v3&theme=white)](https://github.com/minseo0388/Naesungbot-v3)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=Naesungbot-v1&theme=white)](https://github.com/minseo0388/Naesungbot-v1)
+
+### Others
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=graphweb&theme=white)](https://github.com/minseo0388/graphweb)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minseo0388&repo=compress&theme=white)](https://github.com/minseo0388/compress)
 
